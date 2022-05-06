@@ -2,7 +2,11 @@ const express = require("express")
 const app = express()
 
 
-app.get()
+var a = 10
+var b = 20
+
+
+console.log(a+b);
 /*
 
     You should create NVM's working directory if it doesn't exist:
